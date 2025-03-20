@@ -1,2 +1,2 @@
 # HistogramGraph
-Enter students credit data into the terminal and the code will process if the student will pass, fail or defer the module. The code will then store every students data in a text file and will create a histogram with all of the entered students data.
+Inputs students' credit data, processes their results to determine whether they pass, fail, or defer a module, and stores all student records in a text file. Additionally, it generates a histogram to visually represent the distribution of student outcomes based on the entered data.
